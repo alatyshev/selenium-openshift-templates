@@ -1,4 +1,4 @@
-FROM selenium/node-firefox-debug:3.141.59
+FROM selenium/node-firefox-debug:latest
 
 ENV HOME=/home/seluser
 
