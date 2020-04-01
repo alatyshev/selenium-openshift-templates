@@ -1,4 +1,4 @@
-FROM selenium/node-chrome-debug:3.141.59
+FROM selenium/node-chrome-debug:latest
 
 ENV HOME=/home/seluser
 
