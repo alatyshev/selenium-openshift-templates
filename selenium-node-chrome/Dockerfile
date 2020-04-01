@@ -1,4 +1,4 @@
-FROM selenium/node-chrome:3.141.59
+FROM selenium/node-chrome:3.141.59-oxygen
 
 ENV HOME=/home/seluser
 
